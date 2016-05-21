@@ -1,0 +1,6 @@
+Credentials cache: API:16056
+        Principal: atoulous@42.FR
+
+  Issued                Expires               Principal
+Oct 13 13:48:11 2015  Oct 13 23:48:11 2015  krbtgt/42.FR@42.FR
+Oct 13 14:32:45 2015  Oct 13 23:48:11 2015  host/vogsphere-frontend-normal-1.42.fr@42.FR

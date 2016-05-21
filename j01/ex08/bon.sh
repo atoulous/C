@@ -1,0 +1,1 @@
+ldapsearch -Q sn | grep -i 'sn' | grep -i 'bon' | wc -l | tr -d ' '
